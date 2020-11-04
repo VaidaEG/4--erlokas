@@ -13,7 +13,7 @@ body{
         width: 30%;
         float: left;
         text-align: center;
-        margin-top:100px;
+        margin-top:160px;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
         
@@ -33,7 +33,6 @@ body{
         }
         a{
             display:inline-block;
-            width: 100%;
             color:white;
             background-color: #66708B;
             padding:20px;
