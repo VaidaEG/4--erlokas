@@ -1,2 +1,42 @@
-h1{color:red;
-    font-size:80px}
+body{
+    /*background-color: rgb(235,236,238);*/
+    background-color: #EBECEE;
+}
+    img{
+        display:inline-block;
+        width: 30%;
+        float: left;
+        margin-left:20%;
+    }
+    div{
+        display:inline-block;
+        width: 30%;
+        float: left;
+        text-align: center;
+        margin-top:100px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+        
+        h1{
+            display:inline-block;
+            font-size: 120px ;
+            width: 100%;
+            margin:0;
+        }
+
+
+        p{
+            display:inline-block;
+            width: 100%;
+            font-size:30px;
+
+        }
+        a{
+            display:inline-block;
+            width: 100%;
+            color:white;
+            background-color: #66708B;
+            padding:20px;
+            text-decoration:none;
+            text-transform:uppercase;
+        }
