@@ -4,11 +4,11 @@ body {
 }
     img {
         display: inline-block;
-        width: 30%;
+        width: 25%;
         float: left;
-        margin: 50px;
+        margin-top: 90px;
         margin-left: 15%;
-        margin-right: 5%;
+        margin-right: 10%;
     }
     div {
         display: inline-block;
@@ -35,6 +35,8 @@ body {
             width: 100%;
             font-size: 30px;
             color: #6D7079;
+            margin-top: 10px;
+            margin-bottom: 17px;
 
         }
         a {
@@ -52,13 +54,38 @@ body {
         width: 40%;
         margin-left: 28%;
         margin-right: 32%;
-        margin-top: 50px;
+        margin-top: 20px;
     }
     div{
-        width: 40%;
+        width: 50%;
         float: left;
-        margin-left: 30%;
-        margin-right: 30%;
-        margin-top: 50px;
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 10px;
+    }
+}
+@media (max-width: 380px) {
+    img{
+        width: 70%;
+        margin-left: 12%;
+        margin-right: 18%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    div{
+        width: 80%;
+        float: left;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 10px;
+    }
+    p{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 23px;
+
+    }
+    h1 {
+        font-size: 70px;
     }
 }
